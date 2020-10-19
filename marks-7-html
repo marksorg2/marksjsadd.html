@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Let's Add Two Numbers</title>
+</head>
+<body>
+<script>
+var num1 = 999;
+var num2 = 999;
+var num3 = (num1 + num2);
+print("Num1 " + num1 + " Num2 " + num2);
+print("Num3 " + num3);
+</body></html>
